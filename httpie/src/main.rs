@@ -131,5 +131,5 @@ async fn main() -> Result<()> {
 
     Ok(result)
 
-    // Ok(result)
+    // https://www.thumbor.org/300x200/smart/thumbor.readthedocs.io/en/latest/_images/logo-thumbor.png
 }
